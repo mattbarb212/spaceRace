@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spaceRace", "spaceRace\spaceRace.csproj", "{BC0E374A-A5F0-45FC-8D05-F8D1E61D32FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC0E374A-A5F0-45FC-8D05-F8D1E61D32FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0E374A-A5F0-45FC-8D05-F8D1E61D32FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0E374A-A5F0-45FC-8D05-F8D1E61D32FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0E374A-A5F0-45FC-8D05-F8D1E61D32FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC55BC2-DB67-414A-B753-B9EAE2F3BB51}
+	EndGlobalSection
+EndGlobal
